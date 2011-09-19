@@ -6,7 +6,7 @@
 (* ===================================================================================== *)
 (*manual edits included after shtolo. September 18, 2011 1:51:10 PM *)
 --release candidate 1 for AP 242 CD
-SCHEMA AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_ARM_LF;
+SCHEMA Ap242_managed_model_based_3d_engineering_arm_LF;
 
 
 
